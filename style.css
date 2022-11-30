@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+.note{
+    margin: top 30px; 
+}
+#nombre_cancion{
+font-size: 25px;
+}
